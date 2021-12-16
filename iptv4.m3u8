@@ -1,9 +1,11 @@
+#EXTINF:-1 tvg-logo="https://thumbs2.imgbox.com/c5/29/pZSnfNbm_t.jpg" group-title="INDONESIA HD",FOX Action Movies HD
+http://916309128f3e.sn.mynetname.net:1935/aslive/ci/chunklist_w83033785.m3u8
+#EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/BB93NQP.png" group-title="INDONESIA HD",Al Jazeera English (1080p)
+https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Boomerang" tvg-logo="" group-title="INDONESIA HD",Boomerang
 http://d8380c4177d6.sn.mynetname.net:25461/demo/demo/25
-
 #EXTINF:-1 tvg-id="" tvg-name="Saudi TV" tvg-logo="" group-title="INDONESIA HD",Saudi TV
 http://d8380c4177d6.sn.mynetname.net:25461/demo/demo/41
-
 #EXTINF:-1 group-title="INDONESIA HD" tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg",SKyNET sport 2
 http://916309128f3e.sn.mynetname.net:1935/aslive/skynetsports2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/143_144.png" group-title="INDONESIA HD" tvg-id="411" tvg-name="411", HBO HD
@@ -96,18 +98,9 @@ https://delivery.cdn.rcs.net.ar/mnp/espn/output.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Nicktoons_Network_logo_2009.svg/1200px-Nicktoons_Network_logo_2009.svg.png" group-title="INDONESIA HD",Nick Toons
 https://siloh.pluto.tv/lilo/production/Nick/01/master_1.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="INDONESIA HD",NICK JR
 https://siloh.pluto.tv/lilo/production/Nick/03/master_1.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pwfR4JY/kuduszal.png" group-title="INDONESIA HD",ANIPLUS
 http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/01.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://thumbs2.imgbox.com/c5/29/pZSnfNbm_t.jpg" group-title="MOVIES",FOX Action Movies HD
-http://916309128f3e.sn.mynetname.net:1935/aslive/ci/chunklist_w83033785.m3u8
-
-#EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/BB93NQP.png" group-title="News",Al Jazeera English (1080p)
-https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 
 
