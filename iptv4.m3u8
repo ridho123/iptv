@@ -1,3 +1,11 @@
+#EXTINF:-1 tvg-id="" tvg-name="Boomerang" tvg-logo="" group-title="INDONESIA HD",Boomerang
+http://d8380c4177d6.sn.mynetname.net:25461/demo/demo/25
+
+#EXTINF:-1 tvg-id="" tvg-name="Saudi TV" tvg-logo="" group-title="INDONESIA HD",Saudi TV
+http://d8380c4177d6.sn.mynetname.net:25461/demo/demo/41
+
+#EXTINF:-1 group-title="INDONESIA HD" tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg",SKyNET sport 2
+http://916309128f3e.sn.mynetname.net:1935/aslive/skynetsports2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/143_144.png" group-title="INDONESIA HD" tvg-id="411" tvg-name="411", HBO HD
 http://iptv.tvmalaysia.cc:80/penang175/penang175/7067
 #EXTINF:-1 tvg-logo="" group-title="INDONESIA HD", beIN MOVIES ACTION HD
@@ -102,11 +110,4 @@ http://916309128f3e.sn.mynetname.net:1935/aslive/ci/chunklist_w83033785.m3u8
 #EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/BB93NQP.png" group-title="News",Al Jazeera English (1080p)
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Boomerang" tvg-logo="" group-title="Live",Boomerang
-http://d8380c4177d6.sn.mynetname.net:25461/demo/demo/25
 
-#EXTINF:-1 tvg-id="" tvg-name="Saudi TV" tvg-logo="" group-title="Live",Saudi TV
-http://d8380c4177d6.sn.mynetname.net:25461/demo/demo/41
-
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg",SKyNET sport 2
-http://916309128f3e.sn.mynetname.net:1935/aslive/skynetsports2/playlist.m3u8
