@@ -28,6 +28,41 @@ https://liveanevia.mncnow.id/live/eds/TRANSTV-autobot/sa_hls/TRANSTV-autobot.m3u
 https://visionplus-stream.visionplus.id/live/eds/NetTV-M1/sa_hls/NetTV-M1.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LN15XmS/R.png" group-title="INDONESIA HD",Rajawali TV
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(41869351-4a9c-4e57-b54b-8cf5dfc919e1)/index.m3u8
+#EXTINF:-1 group-title="INDONESIA HD",RCTI
+https://livetv01.rctiplus.id/live/eds/RCTI_2021/live_fta/RCTI_2021-avc1_800000=7-mp4a_96000=2.m3u8
+#EXTINF:-1 group-title="INDONESIA HD",TV ONE
+https://cubmu.nomaden.tv:8279/TVONE/playlist.m3u8
+#EXTINF:-1 group-title="INDONESIA HD",Trans7
+https://cubmu.nomaden.tv:8279/TRANS7/playlist.m3u8
+#EXTINF:-1 group-title="INDONESIA HD" ,TRANS TV
+https://cubmu.nomaden.tv:8279/TRANSTV/playlist.m3u8
+#EXTINF:-1 group-title="INDONESIA HD",SCTV
+https://cubmu.nomaden.tv:8279/SCTV/playlist.m3u8
+#EXTINF:-1 group-title="INDONESIA HD",ANTV
+http://rr2.dens.tv/s/s07/index.m3u8
+#EXTINF:-1 group-title="INDONESIA HD",Indosiar
+http://rr2.dens.tv/s/s04/index.m3u8
+#EXTINF:-1 group-title="INDONESIA HD",Kompas TV
+http://rr2.dens.tv/s/s104/index.m3u8
+#EXTINF:-1 group-title="INDONESIA HD",Metro TV
+http://rr.dens.tv/h/h12/index.m3u8
+#EXTINF:-1 group-title="INDONESIA HD",Trans 7
+http://rr.dens.tv/h/h11/index.m3u8
+#EXTINF:-1 group-title="INDONESIA HD",Trans TV
+http://rr2.dens.tv/s/s05/index.m3u8
+#EXTINF:-1 group-title="INDONESIA HD",TVRI Nasional
+http://rr2.dens.tv/s/s11/index.m3u8
+#EXTINF:-1 group-title="INDONESIA HD",TVRI Sport
+http://rr2.dens.tv/s/s107/index.m3u8
+#EXTINF:-1 group-title="INDONESIA HD",NET
+http://rr2.dens.tv/s/s08/index.m3u8
+#EXTINF:-1 group-title="INDONESIA HD",AXN
+http://playlist.urfan.web.id/dr9445/h/h141/01.m3u8
+#EXTINF:-1 group-title="INDONESIA HD",TVN Movies Indonesia
+http://rr1.dens.tv/h/h21/index.m3u8
+#EXTINF:-1 group-title="INDONESIA HD",TVN Premium Indonesia
+http://rr1.dens.tv/h/h20/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GT70CtB/20200225-084711.png" group-title="INDONESIA HD", RCTI (vision+)
 http://syarman.hexat.com/INDONESIA%20HD/rcti.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3Bk8qLp/20200225-084949.png" group-title="INDONESIA HD", MNC TV (vision+)
