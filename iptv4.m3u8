@@ -6,25 +6,25 @@ https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 http://d8380c4177d6.sn.mynetname.net:25461/demo/demo/25
 #EXTINF:-1 tvg-id="" tvg-name="Saudi TV" tvg-logo="" group-title="INDONESIA HD",Saudi TV
 http://d8380c4177d6.sn.mynetname.net:25461/demo/demo/41
-#EXTINF:-1 group-title="INDONESIA HD" tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg",SKyNET sport 2
+#EXTINF:-1 group-title="INDONESIA HD1" tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg",SKyNET sport 2
 http://916309128f3e.sn.mynetname.net:1935/aslive/skynetsports2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/143_144.png" group-title="INDONESIA HD" tvg-id="411" tvg-name="411", HBO HD
 http://iptv.tvmalaysia.cc:80/penang175/penang175/7067
-#EXTINF:-1 tvg-logo="" group-title="INDONESIA HD", beIN MOVIES ACTION HD
+#EXTINF:-1 tvg-logo="" group-title="INDONESIA HD1", beIN MOVIES ACTION HD
 http://ip.xtremetv.eu:8000/megaott1000/4p7c4mMdLn/10621
-#EXTINF:-1 tvg-logo="" group-title="INDONESIA HD", TR: beIN MOVIES PREMIERE HD
+#EXTINF:-1 tvg-logo="" group-title="INDONESIA HD1", TR: beIN MOVIES PREMIERE HD
 http://ip.xtremetv.eu:8000/megaott1000/4p7c4mMdLn/10623
 #EXTINF:-1 tvg-logo="" group-title="INDONESIA HD", BEINSPORT 1
 http://ip.xtremetv.eu:8000/megaott1000/4p7c4mMdLn/14794
 #EXTINF:-1 tvg-logo="" group-title="INDONESIA HD", BEIN SPORTS 2 HD
 http://ip.xtremetv.eu:8000/megaott1000/4p7c4mMdLn/6021
-#EXTINF:-1 tvg-logo="http://www.sba.sa/assets/uploads/2018/04/Image-87@2x.png" group-title="INDONESIA HD",Mecca Live
+#EXTINF:-1 tvg-logo="http://www.sba.sa/assets/uploads/2018/04/Image-87@2x.png" group-title="INDONESIA HD1",Mecca Live
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_quran/hls1/saudi_quran.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9HXYCM1/ihyt.png" group-title="INDONESIA HD",TRANS 7
 https://liveanevia.mncnow.id/live/eds/TRANS7-transformer/sa_hls/TRANS7-transformer.m3u8
-#EXTINF:-1 tvg-logo="https://blog.sribu.com/wp-content/uploads/2018/01/logo-trans-tv.png" group-title="INDONESIA HD",TRANS TV
+#EXTINF:-1 tvg-logo="https://blog.sribu.com/wp-content/uploads/2018/01/logo-trans-tv.png" group-title="INDONESIA HD1",TRANS TV
 https://liveanevia.mncnow.id/live/eds/TRANSTV-autobot/sa_hls/TRANSTV-autobot.m3u8
-#EXTINF:-1 tvg-logo="https://www.sapibagus.com/wp-content/uploads/2015/11/logo-Net-tv.png" group-title="INDONESIA HD",NET TV
+#EXTINF:-1 tvg-logo="https://www.sapibagus.com/wp-content/uploads/2015/11/logo-Net-tv.png" group-title="INDONESIA HD1",NET TV
 https://visionplus-stream.visionplus.id/live/eds/NetTV-M1/sa_hls/NetTV-M1.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LN15XmS/R.png" group-title="INDONESIA HD",Rajawali TV
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(41869351-4a9c-4e57-b54b-8cf5dfc919e1)/index.m3u8
@@ -63,19 +63,19 @@ http://rr1.dens.tv/h/h21/index.m3u8
 #EXTINF:-1 group-title="INDONESIA HD",TVN Premium Indonesia
 http://rr1.dens.tv/h/h20/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/GT70CtB/20200225-084711.png" group-title="INDONESIA HD", RCTI (vision+)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GT70CtB/20200225-084711.png" group-title="INDONESIA HD1", RCTI (vision+)
 http://syarman.hexat.com/INDONESIA%20HD/rcti.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/3Bk8qLp/20200225-084949.png" group-title="INDONESIA HD", MNC TV (vision+)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3Bk8qLp/20200225-084949.png" group-title="INDONESIA HD1", MNC TV (vision+)
 http://syarman.hexat.com/INDONESIA%20HD/mnctv.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Gn7JV1j/20200225-085141.png" group-title="INDONESIA HD", ANTV HD (vision+)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Gn7JV1j/20200225-085141.png" group-title="INDONESIA HD1", ANTV HD (vision+)
 https://visionplus-stream.visionplus.id/live/eds/ANTV-radeon/sa_hls/ANTV-radeon.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/pbRnLPv/20200225-085322.png" group-title="INDONESIA HD", SCTV HD (vision+)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pbRnLPv/20200225-085322.png" group-title="INDONESIA HD1", SCTV HD (vision+)
 https://visionplus-stream.visionplus.id/live/eds/SCTV-intel/sa_hls/SCTV-intel.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/F8hHMjn/20200225-085453.png" group-title="INDONESIA HD", INDOSIAR HD (vision+)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/F8hHMjn/20200225-085453.png" group-title="INDONESIA HD1", INDOSIAR HD (vision+)
 https://visionplus-stream.visionplus.id/live/eds/INDOSIAR-ryzen/sa_hls/INDOSIAR-ryzen.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Tg53dB7/20200225-085803.png" group-title="INDONESIA HD", GTV (vision+)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Tg53dB7/20200225-085803.png" group-title="INDONESIA HD1", GTV (vision+)
 http://syarman.hexat.com/INDONESIA%20HD/gtv.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/djGnnfb/20200225-085942.png" group-title="INDONESIA HD", TV ONE (vision+)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/djGnnfb/20200225-085942.png" group-title="INDONESIA HD1", TV ONE (vision+)
 https://visionplus-stream.visionplus.id/live/eds/TVONE-Decepticon/sa_hls/TVONE-Decepticon.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/M2M4crG/20200225-090315.png" group-title="INDONESIA HD", INEWS (vision+)
 http://syarman.hexat.com/INDONESIA%20HD/Inews.m3u8
