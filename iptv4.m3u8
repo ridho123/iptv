@@ -18,13 +18,13 @@ http://ip.xtremetv.eu:8000/megaott1000/4p7c4mMdLn/10623
 http://ip.xtremetv.eu:8000/megaott1000/4p7c4mMdLn/14794
 #EXTINF:-1 tvg-logo="" group-title="INDONESIA HD", BEIN SPORTS 2 HD
 http://ip.xtremetv.eu:8000/megaott1000/4p7c4mMdLn/6021
-#EXTINF:-1 tvg-logo="http://www.sba.sa/assets/uploads/2018/04/Image-87@2x.png" group-title="INDONESIA HD1",Mecca Live
+#EXTINF:-1 tvg-logo="http://www.sba.sa/assets/uploads/2018/04/Image-87@2x.png" group-title="xINDONESIA HD1",Mecca Live
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_quran/hls1/saudi_quran.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9HXYCM1/ihyt.png" group-title="INDONESIA HD",TRANS 7
 https://liveanevia.mncnow.id/live/eds/TRANS7-transformer/sa_hls/TRANS7-transformer.m3u8
-#EXTINF:-1 tvg-logo="https://blog.sribu.com/wp-content/uploads/2018/01/logo-trans-tv.png" group-title="INDONESIA HD1",TRANS TV
+#EXTINF:-1 tvg-logo="https://blog.sribu.com/wp-content/uploads/2018/01/logo-trans-tv.png" group-title="xINDONESIA HD1",TRANS TV
 https://liveanevia.mncnow.id/live/eds/TRANSTV-autobot/sa_hls/TRANSTV-autobot.m3u8
-#EXTINF:-1 tvg-logo="https://www.sapibagus.com/wp-content/uploads/2015/11/logo-Net-tv.png" group-title="INDONESIA HD1",NET TV
+#EXTINF:-1 tvg-logo="https://www.sapibagus.com/wp-content/uploads/2015/11/logo-Net-tv.png" group-title="xINDONESIA HD1",NET TV
 https://visionplus-stream.visionplus.id/live/eds/NetTV-M1/sa_hls/NetTV-M1.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LN15XmS/R.png" group-title="INDONESIA HD",Rajawali TV
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(41869351-4a9c-4e57-b54b-8cf5dfc919e1)/index.m3u8
