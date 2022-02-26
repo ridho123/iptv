@@ -8,6 +8,12 @@ http://d8380c4177d6.sn.mynetname.net:25461/demo/demo/25
 http://rr2.dens.tv/s/s105/index.m3u8
 #EXTINF:-1 group-title="INDONESIA HD",SCTV
 http://rr2.dens.tv/s/s03/index.m3u8
+
+#EXTINF:-1 group-title="INDONESIA HD",RCTI
+https://goldenlivektv.com/Live_TV/Channel_Rcti.m3u8
+
+#EXTINF:-1 group-title="INDONESIA HD",MNC
+https://goldenlivektv.com/Live_TV/Channel_Mnctv.m3u8
 #EXTINF:-1 group-title="INDONESIA HD",NET
 http://rr2.dens.tv/s/s08/index.m3u8
 #EXTINF:-1 group-title="INDONESIA HD",Metro TV
@@ -40,6 +46,16 @@ http://210.210.155.35/qwr9ew/s/s105/01.m3u8
 #EXTINF:-1 tvg-logo="" group-title="INDONESIA HD", TVRI
 https://iptv.mwafa.net/vidio/6441/index.m3u8?token=1999
 
+#EXTINF:-1 tvg-logo="" group-title="INDONESIA HD", PRIMERLEAGUE
+http://vmp343.ddnsking.com:80/david2/david2/394993
+
+#EXTINF:-1 tvg-logo="" group-title="INDONESIA HD", LALIGA
+http://vmp343.ddnsking.com:80/david2/david2/394991
+
+#EXTINF:-1 tvg-logo="" group-title="INDONESIA HD", BEIN EXTRA
+https://siloh.pluto.tv/lilo/production/bein/1/master_3.m3u8
+
+
 #EXTINF:-1 tvg-logo="" group-title="INDONESIA HD", BEIN PREM 1
 http://clientportal.link:80/live/vangelus13old/4CWsjY382/91334.ts
 
@@ -59,13 +75,13 @@ http://webo.asia:80/live/Waleed/Waleed/191634.ts
 http://webo.asia:80/live/Waleed/Waleed/191635.ts
 
 #EXTINF:-1 tvg-logo="" group-title="INDONESIA HD", STAR MOVIE
-http://webo.asia:80/live/Waleed/Waleed/161932.ts
+http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="INDONESIA HD", STAR MOVIE SELECT
 http://webo.asia:80/live/Waleed/Waleed/161933.ts
 
 #EXTINF:-1 tvg-id="HBOAsia.us" tvg-name="HBO" tvg-logo="https://i.ibb.co/n600MdC/hbo.png" group-title="INDONESIA HD",HBO HD
-https://tvlivehometv.xyz/RHS/hbo1.m3u8?channel=hbo
+http://ip2121.com:8081/web1/hbo/playlist.m3u8
 
 #EXTINF:-1 tvg-id="HBOAsia.us" tvg-name="HBO" tvg-logo="https://i.ibb.co/n600MdC/hbo.png" group-title="INDONESIA HD",HBO HD BACKUP 2
 http://www.goldentv.tech:25461/Perfecto/170721/24990
