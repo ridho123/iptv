@@ -81,7 +81,7 @@ http://webo.asia:80/live/Waleed/Waleed/191635.ts
 http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="INDONESIA HD", STAR MOVIE SELECT
-http://webo.asia:80/live/Waleed/Waleed/161933.ts
+https://raw.githubusercontent.com/Asependang/Belajar/main/saluran/StarSelect.m3u8
 
 #EXTINF:-1 tvg-id="HBOAsia.us" tvg-name="HBO" tvg-logo="https://i.ibb.co/n600MdC/hbo.png" group-title="INDONESIA HD",HBO HD
 http://ip2121.com:8081/web1/hbo/playlist.m3u8
