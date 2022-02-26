@@ -86,7 +86,7 @@ http://webo.asia:80/live/Waleed/Waleed/191635.ts
 #EXTINF:-1 tvg-logo="" group-title="INDONESIA HD", STAR MOVIE
 http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="INDONESIA HD", STAR MOVIE 2
+#EXTINF:-1 tvg-logo="" group-title="INDONESIA HD", STAR MOVIE Backup
 https://raw.githubusercontent.com/ridho123/iptv/main/StarMovie.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="INDONESIA HD", STAR MOVIE 3
