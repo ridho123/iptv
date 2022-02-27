@@ -1,6 +1,5 @@
 #EXTINF:-1 tvg-logo="https://thumbs2.imgbox.com/c5/29/pZSnfNbm_t.jpg" group-title="INDONESIA HD",Alquran
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=6e96be832cf8bc6b35a956e8fb66c76a6a41c2a2a7270517f5ce8dd2f48fc68d
-
 #EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/BB93NQP.png" group-title="INDONESIA HD",Al Jazeera English (1080p)
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Boomerang" tvg-logo="" group-title="INDONESIA HD",Boomerang
@@ -9,10 +8,8 @@ http://d8380c4177d6.sn.mynetname.net:25461/demo/demo/25
 http://rr2.dens.tv/s/s105/index.m3u8
 #EXTINF:-1 group-title="INDONESIA HD",SCTV
 http://rr2.dens.tv/s/s03/index.m3u8
-
 #EXTINF:-1 group-title="INDONESIA HD",RCTI
 https://goldenlivektv.com/Live_TV/Channel_Rcti.m3u8
-
 #EXTINF:-1 group-title="INDONESIA HD",MNC
 https://goldenlivektv.com/Live_TV/Channel_Mnctv.m3u8
 #EXTINF:-1 group-title="INDONESIA HD",NET
@@ -102,6 +99,9 @@ https://raw.githubusercontent.com/ridho123/iptv/main/StarMovie.m3u8
 #EXTINF:-1 tvg-logo="" group-title="INDONESIA HD", STAR MOVIE Backup 2
 http://211.23.114.106:8560/http/116.50.42.19:8081/hls/62/804/ch08.m3u8
 
+#EXTINF:-1 tvg-logo=""group-title="INDONESIA HD",Star Movies HD
+http://live.flixhub.net/hls/starmovies.m3u8
+
 #EXTINF:-1 tvg-id="kplus" tvg-logo="https://i.postimg.cc/HWFhMHwW/logo-kplus-big1.png" group-title="INDONESIA HD",K+
 http://210.210.155.35/uq2663/h/h08/01.m3u8
 
@@ -112,8 +112,6 @@ http://59.125.101.187:8511/http/116.50.42.19:8081/hls/71/813/ch41.m3u8
 #EXTINF:-1 tvg-id="HBOAsia.us" tvg-name="HBO" tvg-logo="https://i.ibb.co/n600MdC/hbo.png" group-title="INDONESIA HD",HBO HD BACKUP 2
 http://www.goldentv.tech:25461/Perfecto/170721/24990
 
-http/116.50.42.19:8081/hls/71/813/ch41.m3u8
-
 #EXTINF:-1 tvg-id="HBOAsia.us" tvg-name="HBO" tvg-logo="https://i.ibb.co/n600MdC/hbo.png" group-title="INDONESIA HD",HBO HD BACKUP 3
 http://ip2121.com:8081/web1/hbo/playlist.m3u8
 
@@ -123,35 +121,6 @@ http://playlist.urfan.web.id/dr9445/h/h141/01.m3u8
 http://rr1.dens.tv/h/h21/index.m3u8
 #EXTINF:-1 group-title="INDONESIA HD",TVN Premium Indonesia
 http://rr1.dens.tv/h/h20/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/GT70CtB/20200225-084711.png" group-title="INDONESIA HD1", RCTI (vision+)
-http://syarman.hexat.com/INDONESIA%20HD/rcti.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/3Bk8qLp/20200225-084949.png" group-title="INDONESIA HD1", MNC TV (vision+)
-http://syarman.hexat.com/INDONESIA%20HD/mnctv.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Gn7JV1j/20200225-085141.png" group-title="INDONESIA HD1", ANTV HD (vision+)
-https://visionplus-stream.visionplus.id/live/eds/ANTV-radeon/sa_hls/ANTV-radeon.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/pbRnLPv/20200225-085322.png" group-title="INDONESIA HD1", SCTV HD (vision+)
-https://visionplus-stream.visionplus.id/live/eds/SCTV-intel/sa_hls/SCTV-intel.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/F8hHMjn/20200225-085453.png" group-title="INDONESIA HD1", INDOSIAR HD (vision+)
-https://visionplus-stream.visionplus.id/live/eds/INDOSIAR-ryzen/sa_hls/INDOSIAR-ryzen.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Tg53dB7/20200225-085803.png" group-title="INDONESIA HD1", GTV (vision+)
-http://syarman.hexat.com/INDONESIA%20HD/gtv.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/djGnnfb/20200225-085942.png" group-title="INDONESIA HD1", TV ONE (vision+)
-https://visionplus-stream.visionplus.id/live/eds/TVONE-Decepticon/sa_hls/TVONE-Decepticon.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/M2M4crG/20200225-090315.png" group-title="INDONESIA HD", INEWS (vision+)
-http://syarman.hexat.com/INDONESIA%20HD/Inews.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/VQRrBtd/20200225-090424.png" group-title="INDONESIA HD", METRO TV (vision+)
-http://syarman.hexat.com/INDONESIA%20HD/metrotv.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/3mbCw3Q/20200225-090600.png" group-title="INDONESIA HD", CNN Indonesia HD
-https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1285822120_b384000_sleng.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/jyKgLhq/20200225-092529.png" group-title="INDONESIA HD", CNBC Indonesia
-https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1352897452_b280000_sleng.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/SRvTdFH/20200225-091027.png" group-title="INDONESIA HD", TVRI
-http://118.97.50.107:80/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/h72L4n4/20200225-093530.png" group-title="INDONESIA HD", KOMPAS TV
-https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(dc9040ad-a4e1-4d08-883c-a65542b69602)/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/tLYQsTm/20200225-091407.png" group-title="INDONESIA HD", BERITA SATU
-http://nonton.wap.sh/id/015.m3u8
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/68_144.png" group-title="INDONESIA HD", CNN Indonesia
 http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2069650134_b280000_sleng.m3u8
@@ -173,22 +142,6 @@ http://syarman.hexat.com/INDONESIA%20HD/elshinta.m3u8
 #EXTINF:-1 tvg-id="Erz.Inspiratv" group-title="INDONESIA HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHko8YYMahEk7J77kwLqzl1IC52ij3lENaeQ&usqp=CAU", Inspira TV
 http://eroz84.wap.sh/local/inspira.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/MNC_Vision_%282019%29.png" group-title="INDONESIA HD",BeIN Sports 1
-https://dik.si/SEbein1?shareext.m3u8
-
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/MNC_Vision_%282019%29.png" group-title="INDONESIA HD",BeIN Sports 2
-https://dik.si/SEbein2?shareext.m3u8
-
-#EXTINF:-1 group-title="INDONESIA HD",Bein Sport HD (EN)
-http://new-pro.tv:8080/waelwael/2r1sBY8wJK/69394?checkedby:iptvcat.com
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Logo_bein_sports_3.png" group-title="INDONESIA HD" tvg-id="BeInSports3.qa" tvg-name="BeInSports3.qa", BeIn Sports 3
-http://tdgu3cz8.rostelekom.xyz/iptv/KKV5969DQS5ZNV/6124/index.m3u8
-
-#EXTINF:-1 group-title="INDONESIA HD",Barca TV
-http://93.152.174.144:4000/play/barcatv/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/espn-png-logo/espn-logo-espn-symbol-meaning-png-logo-0.png" group-title="INDONESIA HD" tvg-id="ESPN.us" tvg-name="ESPN.us", ESPN
 https://delivery.cdn.rcs.net.ar/mnp/espn/output.mpd
 
@@ -197,17 +150,7 @@ https://siloh.pluto.tv/lilo/production/Nick/01/master_1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="INDONESIA HD",NICK JR
 https://siloh.pluto.tv/lilo/production/Nick/03/master_1.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pwfR4JY/kuduszal.png" group-title="INDONESIA HD",ANIPLUS
-http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/01.m3u8
-
-#EXTINF:-1
-group-title="INDONESIA HD",CELESTIAL MOVIES HD http://210.210.155.35/qwr9ew/s/s33/index.m3u8
-
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA HD", MAKKAH
-http://210.210.155.35/qwr9ew/s/s28/01.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA HD", MADINAH
-http://210.210.155.35/qwr9ew/s/s27/01.m3u8
+http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/01.m3u
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uQ4iijb.png" group-title="Documentary", NASA TV  (akamai)
