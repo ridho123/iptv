@@ -35,6 +35,10 @@ http://rr2.dens.tv/s/s107/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="INDONESIA HD", SCTV
 https://iptv.mwafa.net/vidio/204/index.m3u8?token=1999
 
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wBpKv9HD/SCTV.png"group-title="INDONESIA HD",SCTV
+https://cubmu.superzap.xyz:8279/sctv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="INDONESIA HD", TRANSTV
 https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 
@@ -81,14 +85,13 @@ http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/61444
 
 #EXTINF:-1 tvg-logo="" group-title="INDONESIA HD", BEIN PREM 3_2
 https://raw.githubusercontent.com/Asependang/Belajar/main/saluran/Bein-3En.m3u8
-#EXTINF:-1 tvg-logo="" group-title="INDONESIA HD", STARZ CINEMA
-http://webo.asia:80/live/Waleed/Waleed/278032.ts
 
-#EXTINF:-1 tvg-logo="" group-title="INDONESIA HD", BEIN BOX OFFICE 1
-http://webo.asia:80/live/Waleed/Waleed/191634.ts
-
-#EXTINF:-1 tvg-logo="" group-title="INDONESIA HD", BEIN BOX OFFICE 2
-http://webo.asia:80/live/Waleed/Waleed/191635.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RhsPxq2C/logo-foxsports1-big.png" group-title="INDONESIA HD",FOX SPORTS 1
+https://edge1-ccast-sl.cvattv.com.ar/live/c3eds/FoxSports/SA_SAGEMCOM/FoxSports.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MKLssMyd/logo-foxsports2-big.png" group-title="INDONESIA HD",FOX SPORTS 2
+https://edge1-ccast-sl.cvattv.com.ar/live/c3eds/FoxSports2HD/SA_SAGEMCOM/FoxSports2HD.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RFvG3cBV/logo-foxsports3-big.png" group-title="INDONESIA HD",FOX SPORTS 3
+https://edge1-ccast-sl.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_SAGEMCOM/FoxSports3HD.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="INDONESIA HD", STAR MOVIE
 http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
@@ -99,14 +102,20 @@ https://raw.githubusercontent.com/ridho123/iptv/main/StarMovie.m3u8
 #EXTINF:-1 tvg-logo="" group-title="INDONESIA HD", STAR MOVIE Backup 2
 http://211.23.114.106:8560/http/116.50.42.19:8081/hls/62/804/ch08.m3u8
 
-#EXTINF:-1 tvg-id="HBOAsia.us" tvg-name="HBO" tvg-logo="https://i.ibb.co/n600MdC/hbo.png" group-title="INDONESIA HD",HBO HD
-http://ip2121.com:8081/web1/hbo/playlist.m3u8
+#EXTINF:-1 tvg-id="kplus" tvg-logo="https://i.postimg.cc/HWFhMHwW/logo-kplus-big1.png" group-title="INDONESIA HD",K+
+http://210.210.155.35/uq2663/h/h08/01.m3u8
+
 
 #EXTINF:-1 tvg-id="HBOAsia.us" tvg-name="HBO" tvg-logo="https://i.ibb.co/n600MdC/hbo.png" group-title="INDONESIA HD",HBO HD2
 http://59.125.101.187:8511/http/116.50.42.19:8081/hls/71/813/ch41.m3u8
 
 #EXTINF:-1 tvg-id="HBOAsia.us" tvg-name="HBO" tvg-logo="https://i.ibb.co/n600MdC/hbo.png" group-title="INDONESIA HD",HBO HD BACKUP 2
 http://www.goldentv.tech:25461/Perfecto/170721/24990
+
+http/116.50.42.19:8081/hls/71/813/ch41.m3u8
+
+#EXTINF:-1 tvg-id="HBOAsia.us" tvg-name="HBO" tvg-logo="https://i.ibb.co/n600MdC/hbo.png" group-title="INDONESIA HD",HBO HD BACKUP 3
+http://ip2121.com:8081/web1/hbo/playlist.m3u8
 
 #EXTINF:-1 group-title="INDONESIA HD",AXN
 http://playlist.urfan.web.id/dr9445/h/h141/01.m3u8
