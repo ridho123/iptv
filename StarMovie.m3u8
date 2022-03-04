@@ -1,4 +1,5 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-ALLOW-CACHE:YES
-#EXT-X-INDEPENDENT-SEGMENTShttp://live.flixhub.net/hls/starmovies.m3u8
+#EXT-X-INDEPENDENT-SEGMENTS
+http://live.flixhub.net/hls/starmovies.m3u8
