@@ -1,6 +1,9 @@
 #EXTINF:-1 tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/al-quran-al-kareem-tv-logo.png" group-title="INDONESIA HD",Alquran
 http://108.136.37.52/m3u8/vid_AlQuran_AlKarim_TV.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/al-quran-al-kareem-tv-logo.png" group-title="INDONESIA HD",Madinah TV
+http://210.210.155.35/qwr9ew/s/s27/01.m3u8
+
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA HD", RIAUTV
 http://122.248.43.138:1935/ch11/myStream/playlist.m3u8
 
@@ -117,7 +120,7 @@ http://210.210.155.35/uq2663/h/h08/01.m3u8
 https://raw.githubusercontent.com/ridho123/iptv/main/hbo.m3u8
 
 #EXTINF:-1 tvg-id="HBOAsia.us" tvg-name="HBO" tvg-logo="https://i.ibb.co/n600MdC/hbo.png" group-title="INDONESIA HD",HBO HD BACKUP 2
-http://shareext@urtv.cc:80/live/297340/297340/7067.ts?Shareext.ts
+https://jkt2.roll.my.id/manifest/liveorigin/index.m3u8?id=hbo
 
 #EXTINF:-1 tvg-id="HBOAsia.us" tvg-name="HBO" tvg-logo="https://i.ibb.co/n600MdC/hbo.png" group-title="INDONESIA HD",HBO HD BACKUP 3
 http://ip2121.com:8081/web1/hbo/playlist.m3u8
