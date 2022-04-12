@@ -102,7 +102,24 @@ http://195.154.200.168:8000/play/a01s/index.m3u8
 http://195.154.200.168:8000/play/a01t/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="INDONESIA HD",bein. Sports Premium 3 4K
 http://195.154.200.168:8000/play/a01u/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="INDONESIA HD", bein 1
+http://195.154.200.168:8000/play/a017/index.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="INDONESIA HD", bein Sports 1 Premium SD
+http://195.154.200.168:8000/play/a014/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="INDONESIA HD", bein Sports 1 SD1
+http://195.154.200.168:8000/play/a00w/index.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="INDONESIA HD", bein Sports 2 English SD
+http://195.154.200.168:8000/play/a018/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="" group-title="INDONESIA HD", bein Sports 2 Premium SD
+http://195.154.200.168:8000/play/a015/index.m3u8
+#EXTINF:-1,beIN Sports 2 SD
+http://195.154.200.168:8000/play/a00y/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="INDONESIA HD", STAR MOVIE
 http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
