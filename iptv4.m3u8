@@ -5,7 +5,7 @@ http://108.136.37.52/m3u8/vid_AlQuran_AlKarim_TV.m3u8
 http://210.210.155.35/qwr9ew/s/s27/01.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA HD", RIAUTV
-http://122.248.43.138:1935/ch11/myStream/playlist.m3u8
+http://122.248.43.138:19358/ch11/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/BB93NQP.png" group-title="INDONESIA HD",Al Jazeera English (1080p)
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
@@ -70,68 +70,8 @@ https://raw.githubusercontent.com/ridho123/iptv/main/Laliga.m3u8
 #EXTINF:-1 tvg-logo="" group-title="INDONESIA HD", REALMADRID TV
 https://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8?checkedby
 
-#EXTINF:-1 tvg-logo="" group-title="INDONESIA HD",beIN Sports 6 SD
-http://195.154.200.168:8000/play/a00z/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="INDONESIA HD", bein Sports 7 4K
-http://195.154.200.168:8000/play/a01r/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="INDONESIA HD",beIN Sports 7 FHD
-http://195.154.200.168:8000/play/a01h/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="INDONESIA HD",  beIN Sports 7 HD
-http://195.154.200.168:8000/play/a00o/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="INDONESIA HD",beIN Sports 7 SD
-http://195.154.200.168:8000/play/a012/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="INDONESIA HD", beIN Sports English 1 4K
-http://195.154.200.168:8000/play/a01v/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="INDONESIA HD", bein Sports English 2 4K
-http://195.154.200.168:8000/play/a01w/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="INDONESIA HD", bein Sports French 1 4K
-http://195.154.200.168:8000/play/a01x/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="INDONESIA HD",beIN Sports French 2 4K
-http://195.154.200.168:8000/play/a01y/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="INDONESIA HD", bein Sports HD
-http://195.154.200.168:8000/play/a00h/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="INDONESIA HD", bein Sports NBA 4K
-http://195.154.200.168:8000/play/a01z/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="INDONESIA HD", bein Sports NBA HD
-http://195.154.200.168:8000/play/a013/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="INDONESIA HD", bein Sports News HD
-http://195.154.200.168:8000/play/a00g/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="INDONESIA HD",bein Sports Premium 1 4K
-http://195.154.200.168:8000/play/a01s/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="INDONESIA HD",bein Sports Premium 2 4K
-http://195.154.200.168:8000/play/a01t/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="INDONESIA HD",bein. Sports Premium 3 4K
-http://195.154.200.168:8000/play/a01u/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="INDONESIA HD", bein 1
-http://195.154.200.168:8000/play/a017/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="INDONESIA HD", bein Sports 1 Premium SD
-http://195.154.200.168:8000/play/a014/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="INDONESIA HD", bein Sports 1 SD1
-http://195.154.200.168:8000/play/a00w/index.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="" group-title="INDONESIA HD", bein Sports 2 English SD
-http://195.154.200.168:8000/play/a018/index.m3u8
-
-
-#EXTINF:-1 tvg-logo="" group-title="INDONESIA HD", bein Sports 2 Premium SD
-http://195.154.200.168:8000/play/a015/index.m3u8
-#EXTINF:-1,beIN Sports 2 SD
-http://195.154.200.168:8000/play/a00y/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="INDONESIA HD", STAR MOVIE
-http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="INDONESIA HD", STAR MOVIE Backup
-https://raw.githubusercontent.com/ridho123/iptv/main/StarMovie.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="INDONESIA HD", STAR MOVIE Backup 2
-http://211.23.114.106:8560/http/116.50.42.19:8081/hls/62/804/ch08.m3u8
-
-#EXTINF:-1 tvg-logo=""group-title="INDONESIA HD",Star Movies HD
-http://live.flixhub.net/hls/starmovies.m3u8
+#EXTINF:-1 tvg-logo="" group-title="INDONESIA HD",beIN Sports 1 premium
+http://62.210.170.186:8080/live/TVSHQIP/FAKTESHQIP/322.m3u8
 
 #EXTINF:-1 tvg-id="kplus" tvg-logo="https://i.postimg.cc/HWFhMHwW/logo-kplus-big1.png" group-title="INDONESIA HD",K+
 http://210.210.155.35/uq2663/h/h08/01.m3u8
