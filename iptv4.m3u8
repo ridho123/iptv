@@ -39,6 +39,8 @@ http://rr2.dens.tv/s/s107/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="INDONESIA HD", SCTV
 https://iptv.mwafa.net/vidio/204/index.m3u8?token=1999
 
+#EXTINF:-1 tvg-logo="" group-title="INDONESIA HD", SCTV RTP
+rtp://@239.1.2.21:8100
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wBpKv9HD/SCTV.png"group-title="INDONESIA HD",SCTV
 https://cubmu.superzap.xyz:8279/sctv/playlist.m3u8
