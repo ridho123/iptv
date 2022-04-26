@@ -73,6 +73,14 @@ https://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8?checkedby
 #EXTINF:-1 tvg-logo="" group-title="INDONESIA HD",beIN Sports 1 premium
 http://62.210.170.186:8080/live/TVSHQIP/FAKTESHQIP/322.m3u8
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 group-title="INDONESIA HD" tvg-logo="https://www.mncvision.id/userfiles/image/channel/beIN-1.jpg",BeIn Sports 1
+https://liveanevia.mncnow.id/live/eds/MrBein1/sa_dash_vmx/MrBein1.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 group-title="INDONESIA HD" tvg-logo="https://www.mncvision.id/userfiles/image/channel/beIN-2.jpg",BeIn Sports 2
+
 #EXTINF:-1 tvg-id="kplus" tvg-logo="https://i.postimg.cc/HWFhMHwW/logo-kplus-big1.png" group-title="INDONESIA HD",K+
 http://210.210.155.35/uq2663/h/h08/01.m3u8
 
@@ -82,6 +90,7 @@ https://raw.githubusercontent.com/ridho123/iptv/main/hbo.m3u8
 
 #EXTINF:-1 tvg-id="HBOAsia.us" tvg-name="HBO" tvg-logo="https://i.ibb.co/n600MdC/hbo.png" group-title="INDONESIA HD",HBO HD BACKUP 2
 https://jkt2.roll.my.id/manifest/liveorigin/index.m3u8?id=hbo
+
 
 #EXTINF:-1 tvg-id="HBOAsia.us" tvg-name="HBO" tvg-logo="https://i.ibb.co/n600MdC/hbo.png" group-title="INDONESIA HD",HBO HD BACKUP 3
 http://ip2121.com:8081/web1/hbo/playlist.m3u8
