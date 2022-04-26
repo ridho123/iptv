@@ -75,8 +75,32 @@ http://62.210.170.186:8080/live/TVSHQIP/FAKTESHQIP/322.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 group-title="INDONESIA HD" tvg-logo="https://www.mncvision.id/userfiles/image/channel/beIN-1.jpg",BeIn Sports 1
+#EXTINF:-1 group-title="INDONESIA HD" tvg-logo="https://www.mncvision.id/userfiles/image/channel/beIN-1.jpg",BeIn Sports 1 Premium HD
 http://89.105.221.114:80/livesport/live_sport/159
+
+#EXTINF:-1 group-title="INDONESIA HD" tvg-logo="https://www.mncvision.id/userfiles/image/channel/beIN-1.jpg",BeIn Sports 2 Premium HD
+http://89.105.221.114:80/livesport/live_sport/158
+
+#EXTINF:-1 group-title="INDONESIA HD" tvg-logo="https://www.mncvision.id/userfiles/image/channel/beIN-1.jpg",BeIn Sports 3 Premium HD
+http://89.105.221.114:80/livesport/live_sport/157
+
+#EXTINF:-1 group-title="INDONESIA HD" tvg-logo="https://www.mncvision.id/userfiles/image/channel/beIN-1.jpg",BeIn Sports 1 Premium SD
+http://89.105.221.114:80/livesport/live_sport/151
+
+#EXTINF:-1 group-title="INDONESIA HD" tvg-logo="https://www.mncvision.id/userfiles/image/channel/beIN-1.jpg",BeIn Sports 2 Premium SD
+http://89.105.221.114:80/livesport/live_sport/150
+
+#EXTINF:-1 group-title="INDONESIA HD" tvg-logo="https://www.mncvision.id/userfiles/image/channel/beIN-1.jpg",BeIn Sports 3 Premium SD
+http://89.105.221.114:80/livesport/live_sport/149
+
+#EXTINF:-1 group-title="INDONESIA HD" tvg-logo="https://www.mncvision.id/userfiles/image/channel/beIN-1.jpg",BeIn Sports 1 SD
+http://89.105.221.114:80/livesport/live_sport/148
+
+#EXTINF:-1 group-title="INDONESIA HD" tvg-logo="https://www.mncvision.id/userfiles/image/channel/beIN-1.jpg",BeIn Sports 2 SD
+http://89.105.221.114:80/livesport/live_sport/147
+
+#EXTINF:-1 group-title="INDONESIA HD" tvg-logo="https://www.mncvision.id/userfiles/image/channel/beIN-1.jpg",BeIn Sports 3 SD
+http://89.105.221.114:80/livesport/live_sport/146
 
 
 #EXTINF:-1 tvg-id="kplus" tvg-logo="https://i.postimg.cc/HWFhMHwW/logo-kplus-big1.png" group-title="INDONESIA HD",K+
