@@ -92,6 +92,10 @@ http://1tv1.net:8080/hakim2021/123456/15721
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+
+#EXTINF:-1 group-title="INDONESIA HD" tvg-logo="https://www.mncvision.id/userfiles/image/channel/beIN-1.jpg",BeIn Sports 1 Premium LT
+https://iptv.lancartech.co.id:8443/live/topan/54637/54421.ts
+
 #EXTINF:-1 group-title="INDONESIA HD" tvg-logo="https://www.mncvision.id/userfiles/image/channel/beIN-1.jpg",BeIn Sports 1 Premium HD
 http://89.105.221.114:80/livesport/live_sport/159
 
