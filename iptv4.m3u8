@@ -137,6 +137,9 @@ https://jkt2.roll.my.id/manifest/liveorigin/index.m3u8?id=hbo
 #EXTINF:-1 tvg-id="HBOAsia.us" tvg-name="HBO" tvg-logo="https://i.ibb.co/n600MdC/hbo.png" group-title="INDONESIA HD",HBO HD BACKUP 22
 https://jkt2.roll.my.id/manifest/liveorigin/index.m3u8?id=sig
 
+#EXTINF:-1 tvg-id="HBOAsia.us" tvg-name="HBO" tvg-logo="https://i.ibb.co/n600MdC/hbo.png" group-title="INDONESIA HD",HBO HD BACKUP LT
+https://iptv.lancartech.co.id:8443/live/topan/54637/56.ts
+
 #EXTINF:-1 tvg-id="HBOAsia.us" tvg-name="HBO" tvg-logo="https://i.ibb.co/n600MdC/hbo.png" group-title="INDONESIA HD",CINEMAX
 https://jkt2.roll.my.id/manifest/liveorigin/index.m3u8?id=max
 
