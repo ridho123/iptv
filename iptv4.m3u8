@@ -13,8 +13,19 @@ https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 http://d8380c4177d6.sn.mynetname.net:25461/demo/demo/25
 #EXTINF:-1 group-title="INDONESIA HD",tvOne
 http://rr2.dens.tv/s/s105/index.m3u8
+
+#EXTINF:-1 group-title="INDONESIA HD",tvOne2
+http://210.210.155.35/session/93c06f30-eb83-11eb-a9d6-b82a72d63267/qwr9ew/s/s105/02.m3u8
+
 #EXTINF:-1 group-title="INDONESIA HD",SCTV
 http://rr2.dens.tv/s/s03/index.m3u8
+
+#EXTINF:-1 group-title="INDONESIA HD",SCTV2
+http://45.126.83.51/qwr9ew/s/s03/01.m3u8
+
+#EXTINF:-1 group-title="INDONESIA HD",SCTV3
+http://210.210.155.35/qwr9ew/s/s03/02.m3u8
+
 #EXTINF:-1 group-title="INDONESIA HD",RCTI
 https://goldenlivektv.com/Live_TV/Channel_Rcti.m3u8
 #EXTINF:-1 group-title="INDONESIA HD",MNC
@@ -36,14 +47,8 @@ http://rr2.dens.tv/s/s11/index.m3u8
 #EXTINF:-1 group-title="INDONESIA HD",TVRI Sport
 http://rr2.dens.tv/s/s107/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="INDONESIA HD", SCTV
-https://iptv.mwafa.net/vidio/204/index.m3u8?token=1999
-
-#EXTINF:-1 tvg-logo="" group-title="INDONESIA HD", SCTV RTP
-rtp://@239.1.2.21:8100
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wBpKv9HD/SCTV.png"group-title="INDONESIA HD",SCTV
-https://cubmu.superzap.xyz:8279/sctv/playlist.m3u8
+http://210.210.155.35/qwr9ew/s/s03/02.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="INDONESIA HD", TRANSTV
 https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
