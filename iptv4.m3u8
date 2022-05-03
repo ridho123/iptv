@@ -68,8 +68,8 @@ https://liveanevia.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 #EXTINF:-1 tvg-logo="" group-title="INDONESIA HD", GTV2
 https://goldenlivektv.com/Live_TV/Channel_Gtv.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="INDONESIA HD", PRIMERLEAGUE
-http://vmp343.ddnsking.com:80/david2/david2/394993
+#EXTINF:-1 tvg-logo="" group-title="INDONESIA HD", REALMADRID TV
+http://gamistra.ddns.net:8554/spain-xui/dACAgD9C2amf/10559
 
 #EXTINF:-1 tvg-logo="" group-title="INDONESIA HD", FWMOVIE
 https://freelive.inwstream.com:1936/freelive-edge/fwmov_fw-iptv.stream/chunks.m3u8
