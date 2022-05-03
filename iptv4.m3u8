@@ -86,9 +86,6 @@ https://zz@iptv.lancartech.co.id:8443/topan/54637/25
 #EXTINF:-1 group-title="INDONESIA HD", beIN Sports 3 ID
 https://zz@iptv.lancartech.co.id:8443/topan/54637/26
 
-#EXTINF:-1 group-title="INDONESIA HD", beIN xtra
-http://1tv1.net:8080/hakim2021/123456/15721
-
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -97,31 +94,14 @@ http://1tv1.net:8080/hakim2021/123456/15721
 https://iptv.lancartech.co.id:8443/live/topan/54637/54421.ts
 
 #EXTINF:-1 group-title="INDONESIA HD" tvg-logo="https://www.mncvision.id/userfiles/image/channel/beIN-1.jpg",BeIn Sports 1 Premium HD
-http://89.105.221.114:80/livesport/live_sport/159
+https://andistores.online/shelby/sport.php?id=beinprem1
 
 #EXTINF:-1 group-title="INDONESIA HD" tvg-logo="https://www.mncvision.id/userfiles/image/channel/beIN-1.jpg",BeIn Sports 2 Premium HD
-http://89.105.221.114:80/livesport/live_sport/158
+https://andistores.online/shelby/sport.php?id=beinprem2
 
 #EXTINF:-1 group-title="INDONESIA HD" tvg-logo="https://www.mncvision.id/userfiles/image/channel/beIN-1.jpg",BeIn Sports 3 Premium HD
-http://89.105.221.114:80/livesport/live_sport/157
+https://andistores.online/shelby/sport.php?id=beinprem3
 
-#EXTINF:-1 group-title="INDONESIA HD" tvg-logo="https://www.mncvision.id/userfiles/image/channel/beIN-1.jpg",BeIn Sports 1 Premium SD
-http://89.105.221.114:80/livesport/live_sport/151
-
-#EXTINF:-1 group-title="INDONESIA HD" tvg-logo="https://www.mncvision.id/userfiles/image/channel/beIN-1.jpg",BeIn Sports 2 Premium SD
-http://89.105.221.114:80/livesport/live_sport/150
-
-#EXTINF:-1 group-title="INDONESIA HD" tvg-logo="https://www.mncvision.id/userfiles/image/channel/beIN-1.jpg",BeIn Sports 3 Premium SD
-http://89.105.221.114:80/livesport/live_sport/149
-
-#EXTINF:-1 group-title="INDONESIA HD" tvg-logo="https://www.mncvision.id/userfiles/image/channel/beIN-1.jpg",BeIn Sports 1 SD
-http://89.105.221.114:80/livesport/live_sport/148
-
-#EXTINF:-1 group-title="INDONESIA HD" tvg-logo="https://www.mncvision.id/userfiles/image/channel/beIN-1.jpg",BeIn Sports 2 SD
-http://89.105.221.114:80/livesport/live_sport/147
-
-#EXTINF:-1 group-title="INDONESIA HD" tvg-logo="https://www.mncvision.id/userfiles/image/channel/beIN-1.jpg",BeIn Sports 3 SD
-http://89.105.221.114:80/livesport/live_sport/146
 
 
 #EXTINF:-1 tvg-id="kplus" tvg-logo="https://i.postimg.cc/HWFhMHwW/logo-kplus-big1.png" group-title="INDONESIA HD",K+
