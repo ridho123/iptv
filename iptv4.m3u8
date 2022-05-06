@@ -27,9 +27,11 @@ http://45.126.83.51/qwr9ew/s/s03/01.m3u8
 http://210.210.155.35/qwr9ew/s/s03/02.m3u8
 
 #EXTINF:-1 group-title="INDONESIA HD",RCTI
-https://goldenlivektv.com/Live_TV/Channel_Rcti.m3u8
+http://iptv12k.com:35461/8022022301/468985/2185
 #EXTINF:-1 group-title="INDONESIA HD",MNC
-https://goldenlivektv.com/Live_TV/Channel_Mnctv.m3u8
+http://iptv12k.com:35461/8022022301/468985/2175
+#EXTINF:-1 group-title="INDONESIA HD",iNews
+https://vcdn2.rctiplus.id/live/eds/INEWS_2021/live_fta/INEWS_2021-avc1_800000=7-mp4a_96000=2.m3u8
 #EXTINF:-1 group-title="INDONESIA HD",NET
 http://rr2.dens.tv/s/s08/index.m3u8
 #EXTINF:-1 group-title="INDONESIA HD",Metro TV
@@ -74,8 +76,8 @@ http://gamistra.ddns.net:8554/spain-xui/dACAgD9C2amf/10559
 #EXTINF:-1 tvg-logo="" group-title="INDONESIA HD", FWMOVIE
 https://freelive.inwstream.com:1936/freelive-edge/fwmov_fw-iptv.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="INDONESIA HD", HBO RTP
-rtp://@239.1.3.10:1234
+#EXTINF:-1 tvg-logo="" group-title="INDONESIA HD", Trill
+http://203.77.246.50:5000/udp/239.1.2.216:5000
 
 #EXTINF:-1 tvg-logo="" group-title="INDONESIA HD",beIN Sports 1 premium
 http://62.210.170.186:8080/live/TVSHQIP/FAKTESHQIP/322.m3u8
@@ -125,6 +127,9 @@ https://iptv.lancartech.co.id:8443/live/topan/54637/56.ts
 
 #EXTINF:-1 tvg-id="HBOAsia.us" tvg-name="HBO" tvg-logo="https://i.ibb.co/n600MdC/hbo.png" group-title="INDONESIA HD",CINEMAX
 https://jkt2.roll.my.id/manifest/liveorigin/index.m3u8?id=max
+
+#EXTINF:-1 tvg-logo="" group-title="INDONESIA HD",HBO Hits
+https://jkt2.roll.my.id/manifest/liveorigin/index.m3u8?id=hits
 
 #EXTINF:-1 tvg-id="HBOAsia.us" tvg-name="HBO" tvg-logo="https://i.ibb.co/n600MdC/hbo.png" group-title="INDONESIA HD",HBO HD BACKUP 3
 http://ip2121.com:8081/web1/hbo/playlist.m3u8
