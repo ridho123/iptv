@@ -1,3 +1,6 @@
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+
+
 #EXTINF:-1 tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/al-quran-al-kareem-tv-logo.png" group-title="INDONESIA HD",Alquran
 http://108.136.37.52/m3u8/vid_AlQuran_AlKarim_TV.m3u8
 
@@ -101,7 +104,7 @@ https://zz@iptv.lancartech.co.id:8443/topan/54637/26
 
 #EXTINF:-1 group-title="INDONESIA HD" tvg-logo="https://www.mncvision.id/userfiles/image/channel/beIN-1.jpg",BeIn Sports 1 Premium LT
 http://gplus.live:8080/168573780756/N9UFR0P64W/58860
-
+#KODIPROP:inputstream=inputstream.ffmpegdirect
 #EXTINF:-1 group-title="INDONESIA HD" tvg-logo="https://www.mncvision.id/userfiles/image/channel/beIN-1.jpg",BeIn Sports 1 Premium HD
 http://gplus.live:8080/168573780756/N9UFR0P64W/58871
 
