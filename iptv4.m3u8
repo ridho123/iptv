@@ -33,7 +33,8 @@ https://liveanevia.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 
 
 #EXTINF:-1 group-title="INDONESIA HD",RCTI
-http://iptv12k.com:35461/8022022301/468985/2185
+https://d1akid76fpbq4x.cloudfront.net/live/eds/RCTI_2021/live_fta/RCTI_2021.m3u8
+
 #EXTINF:-1 group-title="INDONESIA HD",MNC
 http://iptv12k.com:35461/8022022301/468985/2175
 #EXTINF:-1 group-title="INDONESIA HD",iNews
