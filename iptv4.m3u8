@@ -107,7 +107,7 @@ https://on-load.mncnow.id/live/eds/MrBein1/sa_dash_vmx/MrBein1.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 
 #EXTINF:-1 group-title="INDONESIA HD" tvg-logo="https://www.mncvision.id/userfiles/image/channel/beIN-1.jpg",BeIn Sports 1 Premium LT
-http://almultakatv.com:25461/LUnlKxrBFY5/S2kZV1QVEp9x/3090
+http://red.ipfox.org:8080/live/osama2022/osama2023/31498.m3u8
 
 #EXTINF:-1 group-title="INDONESIA HD" tvg-logo="https://www.mncvision.id/userfiles/image/channel/beIN-1.jpg",BeIn Sports 1 Premium HD
 http://gplus.live:8080/168573780756/N9UFR0P64W/58871
