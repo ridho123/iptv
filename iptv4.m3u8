@@ -1,5 +1,5 @@
 
-
+#EXTM3U
 
 #EXTINF:-1 tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/al-quran-al-kareem-tv-logo.png" group-title="INDONESIA HD",Alquran
 http://108.136.37.52/m3u8/vid_AlQuran_AlKarim_TV.m3u8
@@ -103,7 +103,7 @@ http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/9538
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 
 #EXTINF:-1 group-title="INDONESIA HD" tvg-logo="https://www.mncvision.id/userfiles/image/channel/beIN-1.jpg",BeIn Sports 1 Premium LT
-http://gplus.live:8080/168573780756/N9UFR0P64W/58860
+http://almultakatv.com:25461/LUnlKxrBFY5/S2kZV1QVEp9x/3090
 
 #EXTINF:-1 group-title="INDONESIA HD" tvg-logo="https://www.mncvision.id/userfiles/image/channel/beIN-1.jpg",BeIn Sports 1 Premium HD
 http://gplus.live:8080/168573780756/N9UFR0P64W/58871
