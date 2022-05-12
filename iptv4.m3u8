@@ -92,9 +92,11 @@ http://203.77.246.50:5000/udp/239.1.2.216:5000
 #EXTINF:-1 tvg-logo="" group-title="INDONESIA HD",beIN Sports 1 premium
 http://62.210.170.186:8080/live/TVSHQIP/FAKTESHQIP/322.m3u8
 
-#EXTINF:-1 group-title="INDONESIA HD", beIN Sports 1
-http://starshare.live:8080/live/Shoaibkhan/Yazan786/366.ts
+#EXTINF:-1 group-title="INDONESIA HD", beIN Sports 1 FR
+http://starshare.live:8080/live/Shoaibkhan/Yazan786/356.ts
 
+#EXTINF:-1 group-title="INDONESIA HD", beIN Sports 1
+http://starshare.live:8080/live/Shoaibkhan/Yazan786/359.ts
 #EXTINF:-1 group-title="INDONESIA HD", beIN Sports 2
 http://starshare.live:8080/live/Shoaibkhan/Yazan786/5444.ts
 
