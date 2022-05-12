@@ -92,11 +92,29 @@ http://203.77.246.50:5000/udp/239.1.2.216:5000
 #EXTINF:-1 tvg-logo="" group-title="INDONESIA HD",beIN Sports 1 premium
 http://62.210.170.186:8080/live/TVSHQIP/FAKTESHQIP/322.m3u8
 
-#EXTINF:-1 group-title="INDONESIA HD", beIN Sports 1 ID
-http://gplus.live:8080/168573780756/N9UFR0P64W/58854
+#EXTINF:-1 group-title="INDONESIA HD", beIN Sports 1
+http://starshare.live:8080/live/Shoaibkhan/Yazan786/366.ts
+
+#EXTINF:-1 group-title="INDONESIA HD", beIN Sports 2
+http://starshare.live:8080/live/Shoaibkhan/Yazan786/5444.ts
+
+#EXTINF:-1 group-title="INDONESIA HD", beIN Sports 3
+http://starshare.live:8080/live/Shoaibkhan/Yazan786/5445.ts
+
+#EXTINF:-1 group-title="INDONESIA HD", ESPN 1
+http://starshare.live:8080/live/Shoaibkhan/Yazan786/4755.ts
+
+#EXTINF:-1 group-title="INDONESIA HD", ESPN 2
+http://starshare.live:8080/live/Shoaibkhan/Yazan786/5444.ts
+
+#EXTINF:-1 group-title="INDONESIA HD", CANAL SPORT+
+http://starshare.live:8080/live/Shoaibkhan/Yazan786/1961.ts
 
 #EXTINF:-1 group-title="INDONESIA HD", CANAL SPORT
 http://ottspain.net:80/MZSUZUPIQQ/ECCJXRT93F/12727
+
+#EXTINF:-1 group-title="INDONESIA HD", LALIGA TV
+http://starshare.live:8080/live/Shoaibkhan/Yazan786/23346.ts
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
