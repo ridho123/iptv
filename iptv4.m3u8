@@ -119,6 +119,16 @@ http://starshare.live:8080/live/Shoaibkhan/Yazan786/4755.ts
 #EXTINF:-1 group-title="INDONESIA HD", ESPN 2
 http://starshare.live:8080/live/Shoaibkhan/Yazan786/5444.ts
 
+#EXTINF:-1 tvg-id="HBOAsia.us" tvg-name="HBO" tvg-logo="https://i.ibb.co/n600MdC/hbo.png" group-title="INDONESIA HD",ASTRO SPORT 1
+http://iptv.tvmalaysia.cc:80/989651/989651/9024
+
+#EXTINF:-1 tvg-id="HBOAsia.us" tvg-name="HBO" tvg-logo="https://i.ibb.co/n600MdC/hbo.png1" group-title="INDONESIA HD",ASTRO SPORT 2
+http://iptv.tvmalaysia.cc:80/989651/989651/9025
+
+
+#EXTINF:-1 tvg-id="HBOAsia.us" tvg-name="HBO" tvg-logo="https://i.ibb.co/n600MdC/hbo.png1" group-title="INDONESIA HD",ASTRO SPORT 3
+http://iptv.tvmalaysia.cc:80/989651/989651/9020
+
 #EXTINF:-1 group-title="INDONESIA HD", CANAL SPORT+
 http://starshare.live:8080/live/Shoaibkhan/Yazan786/1961.ts
 
@@ -172,8 +182,11 @@ https://jkt2.roll.my.id/manifest/liveorigin/index.m3u8?id=hbo
 #EXTINF:-1 tvg-id="HBOAsia.us" tvg-name="HBO" tvg-logo="https://i.ibb.co/n600MdC/hbo.png" group-title="INDONESIA HD",HBO HD BACKUP 22
 https://jkt2.roll.my.id/manifest/liveorigin/index.m3u8?id=sig
 
-#EXTINF:-1 tvg-id="HBOAsia.us" tvg-name="HBO" tvg-logo="https://i.ibb.co/n600MdC/hbo.png" group-title="INDONESIA HD",HBO HD BACKUP LT
-https://iptv.lancartech.co.id:8443/live/topan/54637/56.ts
+#EXTINF:-1 tvg-id="HBOAsia.us" tvg-name="HBO" tvg-logo="https://i.ibb.co/n600MdC/hbo.png" group-title="INDONESIA HD",HBO HD BACKUP kvision
+http://203.77.246.50:5000/udp/239.1.3.84:5000
+
+#EXTINF:-1 tvg-id="HBOAsia.us" tvg-name="HBO" tvg-logo="https://i.ibb.co/n600MdC/hbo.png" group-title="INDONESIA HD",HBO HD BACKUP kvision (sig)
+http://203.77.246.50:5000/udp/239.1.3.74:5000
 
 #EXTINF:-1 tvg-id="HBOAsia.us" tvg-name="HBO" tvg-logo="https://i.ibb.co/n600MdC/hbo.png" group-title="INDONESIA HD",CINEMAX
 https://jkt2.roll.my.id/manifest/liveorigin/index.m3u8?id=max
