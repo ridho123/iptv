@@ -48,6 +48,8 @@ http://rr2.dens.tv/s/s08/index.m3u8
 http://rr.dens.tv/h/h12/index.m3u8
 #EXTINF:-1 group-title="INDONESIA HD",Indosiar
 http://rr2.dens.tv/s/s04/index.m3u8
+#EXTINF:-1 group-title="INDONESIA HD",Indosiar2
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=eae27d77ca20db309e056e3d2dcd7d69446503011668def857b1c03bafabba51
 #EXTINF:-1 group-title="INDONESIA HD",Kompas TV
 http://rr2.dens.tv/s/s104/index.m3u8
 #EXTINF:-1 group-title="INDONESIA HD",ANTV
